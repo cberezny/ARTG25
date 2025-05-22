@@ -1,0 +1,1 @@
+Use the arrow keys to move and explore different rooms. It’s an art heist game with a small twist.
